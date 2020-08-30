@@ -49,8 +49,7 @@ In this lesson we're going to focus on the last step, outputting data using HTML
     
     <h1>PHP Exercise 1: Links and Variables</h1>
     
-    <p>Use PHP echo and variables to output the 
-        following link information:</p>
+    <p>Use PHP echo and variables to output the following link information:</p>
         
     <hr>
     
