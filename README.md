@@ -43,11 +43,11 @@ In this lesson we're going to focus on the last step, outputting data using HTML
 <!DOCTYPE html>
 <html>
 <head>
-    <title>PHP Exercise 1: Links and Variables</title>
+    <title>Links and Variables</title>
 </head>
 <body>
     
-    <h1>PHP Exercise 1: Links and Variables</h1>
+    <h1>Links and Variables</h1>
     
     <p>Use PHP echo and variables to output the following link information:</p>
         
