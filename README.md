@@ -40,7 +40,7 @@ In this lesson we're going to focus on the last step, outputting data using HTML
 2. Add the following code to the new PHP file:
 
 ```php
-<!DOCTYPE html>
+<!doctype html>
 <html>
 <head>
     <title>Links and Variables</title>
