@@ -75,11 +75,6 @@ echo '<h1>'.$linkName.'</h1>';
 
 ?>
 ```
-Remember to test by uploading your PHP to your hosting account and test using your domain name.
-
-4. When you're done, the result will look something like this:
-
-![Lesson Result](https://raw.githubusercontent.com/codeadamca/php-variables/master/exercise-sample.png?raw=true)
 
 Hints: Convert each line of HTML to PHP one line at a time. Test your PHP after converting each line of code. 
 
