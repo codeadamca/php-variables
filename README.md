@@ -76,7 +76,7 @@ echo '<h1>'.$linkName.'</h1>';
 ?>
 ```
 
-Hints: Convert each line of HTML to PHP one line at a time. Test your PHP after converting each line of code. 
+Hints: Add each value from the array one at a time. Test your PHP after each new line of PHP. 
 
 ## Tutorial Requirements:
 
