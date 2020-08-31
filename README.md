@@ -76,7 +76,9 @@ echo '<h1>'.$linkName.'</h1>';
 ?>
 ```
 
-Hints: Add each value from the array one at a time. Test your PHP after each new line of PHP. 
+> Hint: Add each value from the array one at a time. Test your PHP after each new line of PHP. 
+
+> [More information on PHP variables](https://www.php.net/manual/en/language.variables.variable.php)
 
 ## Tutorial Requirements:
 
