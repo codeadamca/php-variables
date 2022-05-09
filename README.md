@@ -57,7 +57,7 @@ In this lesson we're going to focus on the last step, outputting data using HTML
     
     $linkName = 'Codecademy';
     $linkURL = 'https://www.codecademy.com/';
-    $linkImage = 'https://production.cdmycdn.com/webpack/44e01805165bfde4e6e4322c540abf81.svg';
+    $linkImage = 'https://static-assets.codecademy.com/Courses/Learn-Redux/matching-game/codecademy_logo.png';
     $linkDescription = 'Learn to code interactively, for free.';
     
     ?>
