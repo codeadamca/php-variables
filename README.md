@@ -1,4 +1,4 @@
-# php-variables
+# A Basic Introduction to PHP and Variables
 
 A basic example of using PHP variables.
 
