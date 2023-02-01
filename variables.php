@@ -16,7 +16,7 @@
     
     $linkName = 'Codecademy';
     $linkURL = 'https://www.codecademy.com/';
-    $linkImage = 'https://static-assets.codecademy.com/Courses/Learn-Redux/matching-game/codecademy_logo.png';
+    $linkImage = 'codecademy.png';
     $linkDescription = 'Learn to code interactively, for free.';
     
     echo '<h1>'.$linkName.'</h1>';
