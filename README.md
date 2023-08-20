@@ -38,54 +38,57 @@ In this lesson we're going to focus on the last step, outputting data using HTML
 
 1. Open up a new file and name it variables.php.
 2. Add the following code to the new PHP file:
-
-```php
-<!doctype html>
-<html>
-<head>
-    <title>Links and Variables</title>
-</head>
-<body>
     
-    <h1>Links and Variables</h1>
-    
-    <p>Use PHP echo and variables to output the following link information:</p>
+    ```php
+    <!doctype html>
+    <html>
+    <head>
+        <title>Links and Variables</title>
+    </head>
+    <body>
         
-    <hr>
-    
-    <?php
-    
-    $linkName = 'Codecademy';
-    $linkURL = 'https://www.codecademy.com/';
-    $linkImage = 'codecademy.png';
-    $linkDescription = 'Learn to code interactively, for free.';
-    
-    ?>
+        <h1>Links and Variables</h1>
         
-</body>
-</html>
-```
+        <p>Use PHP echo and variables to output the following link information:</p>
+            
+        <hr>
+        
+        <?php
+        
+        $linkName = 'Codecademy';
+        $linkURL = 'https://www.codecademy.com/';
+        $linkImage = 'codecademy.png';
+        $linkDescription = 'Learn to code interactively, for free.';
+        
+        ?>
+            
+    </body>
+    </html>
+    ```
 
 3. After the variables are defined use a series of `echo` statements to display the content. For example outputting the `$linkname` might look like this:
+    
+    ```php
+    <?php
+    
+    echo '<h1>'.$linkName.'</h1>';
+    
+    ?>
+    ```
 
-```php
-<?php
-
-echo '<h1>'.$linkName.'</h1>';
-
-?>
-```
-
-> Hint: Add each value from the array one at a time. Test your PHP after each new line of PHP. 
+Hint: Add each value from the array one at a time. Test your PHP after each new line of PHP. 
 
 > [More information on PHP variables](https://www.php.net/manual/en/language.variables.variable.php)
 
-## Tutorial Requirements:
+> Full tutorial URL:  
+> https://codeadam.ca/learning/php-variables.html
+
+***
+
+## Repo Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
 * [Filezilla](https://filezilla-project.org/) (or any FTP program)
-
-Full tutorial URL: https://codeadam.ca/learning/php-variables.html
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
