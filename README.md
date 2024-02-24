@@ -76,7 +76,8 @@ In this lesson we're going to focus on the last step, outputting data using HTML
     ?>
     ```
 
-Hint: Add each value from the array one at a time. Test your PHP after each new line of PHP. 
+> [!Note]
+> Add each value from the array one at a time. Test your PHP after each new line of PHP. 
 
 > [More information on PHP variables](https://www.php.net/manual/en/language.variables.variable.php)
 
